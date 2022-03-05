@@ -11,3 +11,11 @@
   - Clean Imported Animation - Clear the transform keyframes to fix dislocated bones.
   - Constrain Armature - Choose a skeleton rig to constrain transformation of the active armature according to the template mapping.
   - Scale Skeleton - Parent the armature to the empty and then scale.
+
+![](images/AT_Panel_description.png)
+
+# Support the Developer:
+**Gumroad**
+tingjoybits.gumroad.com/l/tagplu
+**Patreon**
+https://www.patreon.com/tingjoybits
