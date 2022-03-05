@@ -15,7 +15,11 @@
 ![](images/AT_Panel_description.png)
 
 # Support the Developer:
+
 **Gumroad**
-tingjoybits.gumroad.com/l/tagplu
+
+https://tingjoybits.gumroad.com/l/tagplu
+
 **Patreon**
+
 https://www.patreon.com/tingjoybits
