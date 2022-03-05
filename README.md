@@ -1,5 +1,7 @@
 **"Armature Templates"** is an add-on for Blender that allows to manipulate skeleton with the help of various features depending on the predefined or custom template data. The main purpose of this add-on is to provide the possibility to export animated character rig to game engine or edit animation of the imported character from the game engine. The created template out of armature skeleton is a unified container of bone name list, which allows to make a particular mapping from the bone list of another skeleton as a link data and then perform some operations between those two armatures afterwards.
 
+Blender Version: **2.93+, 3.0+**
+
 **Main Feature List:**
 
   - Templates
