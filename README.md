@@ -14,6 +14,8 @@
 
 ![](images/AT_Panel_description.png)
 
+Video Course: https://tingjoybits.gumroad.com/l/eihgu
+
 # Support the Developer:
 
 **Gumroad**
