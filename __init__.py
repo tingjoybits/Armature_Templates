@@ -25,7 +25,7 @@ bl_info = {
     "author": "TingJoyBits",
     "version": (1, 0),
     "blender": (2, 93, 0),
-    "location": "View3D >",
+    "location": "Properties > Object Data > Skeleton Panel",
     "description": "Armature Templates",
     "warning": "",
     "doc_url": "https://github.com/tingjoybits/Armature_Templates",
