@@ -24,7 +24,11 @@ Blender Version: **2.93+, 3.0+**
 
 ![](images/AT_Panel_description.png)
 
-Video Course: https://tingjoybits.gumroad.com/l/eihgu
+# Video Course: 
+https://tingjoybits.gumroad.com/l/eihgu
+
+YouTube (Complete Playlist)
+https://www.youtube.com/watch?v=n7HSEaNSfPs&list=PLdiY05sMuMLIoYpS7RmAJCNEOm84m4FYk
 
 # Support the Developer:
 
