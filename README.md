@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=n7HSEaNSfPs&list=PLdiY05sMuMLIoYpS7RmAJCNEOm84m4
 
 # Support the Developer:
 
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=C77W5ZVC6R562)
+
 **Gumroad**
 
 https://tingjoybits.gumroad.com/l/tagplu
